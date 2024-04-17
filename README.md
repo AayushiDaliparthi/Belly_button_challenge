@@ -1,2 +1,2 @@
 # Belly_button_challenge
-Images/output.png
+![Alt text](Images/output.png)
